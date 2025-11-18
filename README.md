@@ -10,8 +10,8 @@ A simple console-based Rock-Paper-Scissors game written in python as part of my 
 - Clean and easy-to-read beginner-friendly code
 
 ## How to run
--Make sure you have python installed.
--Then run:
+Make sure you have python installed.
+Then run:
 
 ## Purpose
 This project was created to practice:
